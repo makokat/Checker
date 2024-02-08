@@ -1,8 +1,8 @@
-# Sunfell Checker
+# Mako Checker
 
 ### About
 
-Sunfell Checker, OG Usernames Checker Script
+Mako Checker, OG Usernames Checker Script
 
 ### Known Supported Services
 
