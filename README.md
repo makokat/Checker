@@ -10,7 +10,6 @@ Sunfell Checker, OG Usernames Checker Script
 - Instagram (currently broken)
 - Steam ID URLs
 - Steam Group URLs
-- Mixer (formerly Beam.pro)
 - Soundcloud
 - Github
 - About.me
