@@ -17,3 +17,6 @@ Mako Checker, OG Usernames Checker Script
 - Pastebin
 
 ### Install Requirements
+> configparser
+> bs4
+> requests
